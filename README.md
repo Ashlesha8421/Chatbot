@@ -61,7 +61,8 @@ The deployement of chatbot is been done in GUI to make it moe interactive.
 ## OVERCAME BY
 For permission issue we have used header agent to get permission from our local browsers.
 For next issue we have used the source code the websites and only selected the tags of the data which we want to scrap.
-Business benifit:-
+
+## Business benifit:-
 In furture we will be adding or trying to cover most of the topices in our chatbot we will be building chatbot into .exe file so that it can be used in offline as well.
 
 
