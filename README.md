@@ -43,7 +43,7 @@ The data(.csv) which we have extracted/Scraped from many websites.
 The dataset mainly contains 2 columns which are Questions and Answers.
 
 ## TEXT PRE PROCESSING and EDA :
-I performed EDA and visulization on teh dataset such as tokenisation,normalisation,removing stop words,stemming,limatisation.
+I performed EDA and visulization on the dataset such as tokenisation,normalisation,removing stop words,stemming,limatisation.
 
 I did visulization using Wordcloud check the relation of the words using bi-grame and tri-gram
 
