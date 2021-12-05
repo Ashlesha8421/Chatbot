@@ -4,6 +4,9 @@
 # Business Problem :
 Unavailability of chat option to get your data science interview questions with your answers, for a one stop solution on your seeking Data Science interview answers for your questions
 
+# Objective :
+To create a Chat bot for providing seamless responses to Data Science interview questions with an appropriate answer
+
 # What is Chatbot?
 -- A chatbot is a computer program governed by a set of pre-defined rules or artificial intelligence that grants it the capabilities to communicate with and like a human.
 -- A set of commands is fed into the system that makes it smart enough to interpret and react to user-inputted queries.
