@@ -2,7 +2,7 @@
 ![ChatBoat](https://github.com/Ashlesha8421/Chatbot/blob/Ashlesha_Datir/ChatBot_GIF.gif)
 
 # Business Problem :
-Unavailability of chat option to get your data science interview questions with your answers, for a one stop solution on your seeking Data Science interview answers for your questions
+Unavailability of chat option to get your data science interview questions with your answers, for a one step solution on your seeking Data Science interview answers for your questions
 
 # Objective :
 To create a Chat bot for providing seamless responses to Data Science interview questions with an appropriate answer
