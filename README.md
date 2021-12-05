@@ -8,8 +8,8 @@ Unavailability of chat option to get your data science interview questions with 
 To create a Chat bot for providing seamless responses to Data Science interview questions with an appropriate answer
 
 # What is Chatbot?
--- A chatbot is a computer program governed by a set of pre-defined rules or artificial intelligence that grants it the capabilities to communicate with and like a human.
--- A set of commands is fed into the system that makes it smart enough to interpret and react to user-inputted queries.
+* -- A chatbot is a computer program governed by a set of pre-defined rules or artificial intelligence that grants it the capabilities to communicate with and like a human.
+* -- A set of commands is fed into the system that makes it smart enough to interpret and react to user-inputted queries.
 
 # PLANNING :
 - Understanding Business problem & objective
@@ -59,7 +59,7 @@ The deployement of chatbot is been done in GUI to make it moe interactive.
 
 ## CHALLENGES FACED
 - 1.Not all websites/local browsers are giving the permission to scrap their data. 
-- 2. Even after scraping the data form websites we got lot of unwanted text/data which is not useful for us.
+- 2.Even after scraping the data form websites we got lot of unwanted text/data which is not useful for us.
 
 ## OVERCAME BY
 For permission issue we have used header agent to get permission from our local browsers.
