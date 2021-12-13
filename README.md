@@ -35,7 +35,6 @@ To create a Chat bot for providing seamless responses to Data Science interview 
 
 - Testing
 
-# Deployment (GUI)
 
 ## DATASET :
 The data(.csv) which we have extracted/Scraped from many websites.
@@ -54,7 +53,10 @@ We have extracted important word from “Question” and “User input”.
 we had created strings of important word for both.
 we find the similarity between these strings and for that we had used “Ratio” method.
 we had considered only those which had more than 0.90 similarity score.
-DEPLOYMENT :
+
+# Deployment (GUI) 
+
+## DEPLOYMENT :
 The deployement of chatbot is been done in GUI to make it moe interactive.
 
 ## CHALLENGES FACED
