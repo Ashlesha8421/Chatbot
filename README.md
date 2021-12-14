@@ -57,7 +57,7 @@ we had considered only those which had more than 0.90 similarity score.
 # Deployment (GUI) 
 
 ## DEPLOYMENT :
-The deployement of chatbot is been done in GUI to make it moe interactive.
+The deployement of chatbot is been done in GUI to make it more interactive.
 
 ## CHALLENGES FACED
 - 1.Not all websites/local browsers are giving the permission to scrap their data. 
